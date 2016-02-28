@@ -8,7 +8,7 @@ You can easily deploy your own version of the web app for free to Heroku by clic
 
 | Starter | Final |
 |---------|-------|
-| [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://git.heroku.com/rw-universal-links-starter) | [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://git.heroku.com/rw-universal-links-final) |
+| [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/raywenderlich/universal-links/rw-universal-links-starter) | [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://git.heroku.com/rw-universal-links-final) |
 
 
 
