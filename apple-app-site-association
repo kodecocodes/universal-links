@@ -3,7 +3,11 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "KFCNEC27GU.com.razeware.UniveralLinksTutorial",
+				"appID": "473VV338ZU.com.zgpeace.UniversalLinks",
+				"paths": [ "*"]
+			},
+			{
+				"appID": "473VV338ZU.com.zgpeace.UniversalLinksNew",
 				"paths": [ "*"]
 			}
 		]
