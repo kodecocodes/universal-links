@@ -1,11 +1,22 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [
-			{
-				"appID": "KFCNEC27GU.com.razeware.UniveralLinksTutorial",
-				"paths": [ "*"]
-			}
-		]
-	}
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "2R6PE3P379.com.sei.sherman",
+                "paths": [ "/dl/*",]
+            },
+            {
+                "appID": "753SKSVK69.com.sei.enterprise.sherman",
+                "paths": [ "/dl/*" ]
+            },
+            {
+              "appID": "2R6PE3P379.com.7ElevenNow.prod.PhoenixiOS",
+              "paths": [
+                “/7now/dl/*”
+              ]
+             }
+        ]
+    }
 }
+
