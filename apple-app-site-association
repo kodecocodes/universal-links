@@ -5,7 +5,12 @@
 			{
 				"appID": "8XPT93F9Q7.com.akhilag.UniveralLinksTutorial",
 				"paths": [ "*"]
+			},
+			{
+				"appID": "8XPT93F9Q7.com.akhilag.TestUniversalLinks",
+				"paths": [ "*"]
 			}
+
 		]
 	}
 }
